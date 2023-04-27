@@ -7,8 +7,7 @@ function min( firstNum, secondNum ) {
       return secondNum;
 }
 
-console.log(min(0, 10));
-// → 0
-console.log(min(0, -10));
-// → -10
-}
+console.log(min(10, 30));
+// → 10
+console.log(min(12, 21));
+// → 12
