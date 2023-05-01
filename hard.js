@@ -22,3 +22,6 @@ const person1 = {
   let markhigherBMI = BMI1 > BMI2;
   console.log("Is" + " "+ person1.name + "'s" + " " + "BMI higher than" + " " + person2.name + "'s?" + " " + markhigherBMI);
 
+
+
+  
